@@ -1,0 +1,11 @@
+## requirement
+pip
+jupyter_client==8.6.1
+jupyter_core==5.7.2
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
